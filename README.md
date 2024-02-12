@@ -26,7 +26,7 @@ Done:
 - Cpp: a combinaison of mulitple project in order to learn the basis of Cpp.
 
 Currently Doing:
--Cub3d (a two-person team): a raycasting engine that renders a 3D view from a 2D map, with textures, sprites, and lighting. The goal is to make a dynamic view inside a maze in first-person perspective, simulating movement.
+- Cub3d (a two-person team): a raycasting engine that renders a 3D view from a 2D map, with textures, sprites, and lighting. The goal is to make a dynamic view inside a maze in first-person perspective, simulating movement.
 
 Futur project:
 - ft_IRC (a two-person team): Create our own IRC server, following standard Internet RFCs.
