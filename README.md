@@ -1,8 +1,8 @@
-Hi there 👋 I'm Ombeline, an aspiring cybersecurity engineer and 42 student.
+Hi there 👋 I'm Ombeline, an aspiring informatics engineer and 42 student.
 
 # About Me
 
-I'm a quick learner passionate about programming, AI, and VR. Currently diving deep into C and cybersecurity through project-based learning at 42.
+I'm a quick learner passionate about programming, AI, VR and cybersecurity. Currently diving deep into C and C++ through project-based learning at 42.
 
 When I'm not coding, you can find me singing, learning languages, or exploring Japanese culture.
 
