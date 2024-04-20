@@ -25,13 +25,13 @@ When I'm not coding, you can find me singing, learning languages, or exploring J
 - Philosophers: Philosophers simulates dining philosophers with threads or processes and synchronization primitives to avoid deadlock when accessing shared forks. Philosophers alternate thinking, eating, and sleeping until they die or reach a eating limit.
 - Minishell (a two-person team): Minishell is a simple shell that implements basic features like pipelines, redirections, environment variables, signals, and executable execution. It aims to emulate bash while handling errors robustly.
 - Cpp: a combinaison of mulitple project in order to learn the basis of Cpp.
+- Cub3d (a two-person team): a raycasting engine that renders a 3D view from a 2D map, with textures, sprites, and lighting. The goal is to make a dynamic view inside a maze in first-person perspective, simulating movement.
+- Inception: The aim of this project is to extend my knowledge of Docker. I will virtualize several Docker images by creating them in my new personal virtual machine.
 
 ## In progress
-- Cub3d (a two-person team): a raycasting engine that renders a 3D view from a 2D map, with textures, sprites, and lighting. The goal is to make a dynamic view inside a maze in first-person perspective, simulating movement.
+- ft_IRC (a two-person team): Create our own IRC server, following standard Internet RFCs.
 
 ## Up next
-- ft_IRC (a two-person team): Create our own IRC server, following standard Internet RFCs.
-- Inception: The aim of this project is to extend my knowledge of Docker. I will virtualize several Docker images by creating them in my new personal virtual machine.
 - FINAL PROJECT: ft_transcendance (a five-person team): This project consists in creating a website to take part in a competition of the famous game Pong!
 
 # 🤝🏻 Let's Connect!
