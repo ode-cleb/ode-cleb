@@ -2,15 +2,13 @@ Hi there 👋 I'm Ombeline, an aspiring informatics engineer and 42 student.
 
 # About Me
 
-I'm a quick learner passionate about programming, AI, VR and cybersecurity. Currently diving deep into C and C++ through project-based learning at 42.
-
-When I'm not coding, you can find me singing, learning languages, or exploring Japanese culture.
+I'm a quick learner passionate about programming, cybersecurity. Currently diving deeper into cybersecurity projects.
 
 # 💻 Skills
 
-- Technical: C, C++, Python
-- Soft: Teamwork, Adaptability, Conflict Resolution
-- Languages: French, English, basic Spanish and learning German
+- Technical: C, C++, Python, Java
+- Soft: Teamwork, Adaptability, Curious
+- Languages: French, English, basic Spanish
 
 # 🏆 Projects
 
@@ -27,12 +25,14 @@ When I'm not coding, you can find me singing, learning languages, or exploring J
 - Cpp: a combinaison of mulitple project in order to learn the basis of Cpp.
 - Cub3d (a two-person team): a raycasting engine that renders a 3D view from a 2D map, with textures, sprites, and lighting. The goal is to make a dynamic view inside a maze in first-person perspective, simulating movement.
 - Inception: The aim of this project is to extend my knowledge of Docker. I will virtualize several Docker images by creating them in my new personal virtual machine.
+- ft_IRC (a two-person team): Create our own IRC server, following standard Internet RFCs.
+- FINAL PROJECT: ft_transcendence (five-person team): Developed a full-stack web app for online Pong tournaments with real-time gameplay, authentication, chat, and admin tools. Integrated a SIEM using the ELK stack (Elasticsearch, Logstash, Kibana) to monitor and analyze system logs and user activity.
 
 ## In progress
-- ft_IRC (a two-person team): Create our own IRC server, following standard Internet RFCs.
-
+- Darkly: Performed a security audit on a deliberately vulnerable website to identify and exploit common web vulnerabilities. Focused on understanding web app security through hands-on analysis of development and design flaws.
+  
 ## Up next
-- FINAL PROJECT: ft_transcendance (a five-person team): This project consists in creating a website to take part in a competition of the famous game Pong!
+- Dr-Quine: Explored self-replicating programs by writing quines in multiple languages. Applied Kleene’s recursion theorem to build executables that output their own source code without reading it.
 
 # 🤝🏻 Let's Connect!
 
