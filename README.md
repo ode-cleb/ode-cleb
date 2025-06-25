@@ -6,7 +6,7 @@ I'm a quick learner passionate about programming, cybersecurity. Currently divin
 
 # 💻 Skills
 
-- Technical: C, C++, Python, Java
+- Technical: C, C++, Python, JS, Docker, ELK
 - Soft: Teamwork, Adaptability, Curious
 - Languages: French, English, basic Spanish
 
